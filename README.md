@@ -1,2 +1,2 @@
 # mongodb-DAW-ss-23
-Repository of the MongoDB Demontration of group Gamma for the course DAW.
+Repository of the MongoDB Demonstration of group Gamma for the course DAW.
