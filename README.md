@@ -38,8 +38,6 @@ Der Router wird zum Koordination zwischen den Shards und den Client benötigt.
 
 Dieser Befehl legt die Datenbank/Collection “Test” unter “My Database” an und setzt den Key. Bei Key ist es wichtig, dass er ein Feld aus der gewünschten Datenbank enthält. (z.B. “name” aus unserem Beispieldatensatz “students”).
 
-Nach der Aktivierung des Sharding Keys 
-
 ### 7. Zugriff vom Client ✨ <br/>
 
 ```mongodb://127.0.0.1:27117/```
