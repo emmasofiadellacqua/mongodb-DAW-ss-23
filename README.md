@@ -45,3 +45,8 @@ Dieser Befehl legt die Datenbank/Collection “Test” unter “NewDatabaseName�
 ### 8. Import der Daten in die Datenbank 🔚 <br/>
 
 ```Add Data - Daten hochladen (.json)```
+
+### 9. Stats der einzelnen Shards abfragen (am Beispiel Berlin)
+
+``` docker exec -it Berlin bash -c "echo 'rs.status()' | mongosh --port 27017" ```
+
